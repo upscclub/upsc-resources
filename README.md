@@ -142,6 +142,7 @@ NCERTs form the bedrock of civil services conceptual clarity.
   * Access comprehensive notes: [Geography Complete Notes for UPSC](https://upscclub.com/product/geography-complete-notes-for-upsc/)
 
 ### GS Paper II
+* [Directive Principles of State Policy: revision checklist and PYQ index](https://preps.in/upsc-prelims/subjects/polity/directive-principles) — Open-access topic checklist covering Articles 36–51, reference chapters and year-labelled related Prelims questions.
 * **Indian Constitution**: Historical underpinnings, evolution, basic structure doctrine, key amendments.
 * **Functions & Responsibilities of the Union and the States**: Federal structure, devolution of powers and finances, inter-state mechanisms.
 * **Separation of Powers & Dispute Redressal**: Executive, Legislature, Judiciary, Judicial Review, and PIL.
